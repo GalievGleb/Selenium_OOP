@@ -47,5 +47,6 @@ class Test_1(): #создаем класс Test_1
 
         time.sleep(5)
 
+        
 test = Test_1() # объявляем экземпляр класса Test_1
 test.test_select_product()
